@@ -2,7 +2,7 @@
 
 # Hi, I'm Emmanuel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A3EB1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+Bowen+University;MERN+Stack+Developer;Learning+Rust+%26+Solana%2FWeb3;Building+Fery%2C+Jutrabod%2C+ShopBase+%26+more" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A3EB1&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Bowen+University;MERN+Stack+Developer;Rust+%26+Solana%2FWeb3+Developer;Building+Fery%2C+Jutrabod%2C+NACOS+%26+Decentralized+Voting" alt="Typing SVG" />
 
 </div>
 
@@ -12,8 +12,8 @@
 
 - 🎓 Software Engineering student at **Bowen University, Nigeria**
 - 🛠️ Background in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🦀 Currently learning **Rust** and **Solana/Web3 development** (Cyfrin Updraft, Ackee Blockchain Bootcamp)
-- ⚡ I like shipping full projects end to end — backend, frontend, and deployment
+- 🦀 Completed the **Cyfrin Updraft** Rust and Solana/Anchor developer courses, and now building in **Web3**
+- ⚡ I like shipping full projects end to end: backend, frontend, smart contracts, and deployment
 
 ### Tech I work with
 
@@ -28,6 +28,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
@@ -40,7 +41,7 @@
 
 **🔗 [Fery](https://github.com/oddemmy/Fery)**
 
-A full-stack URL shortener — Express/PostgreSQL API with JWT auth, optional accounts, and a Next.js + Tailwind frontend with a dashboard for tracking your links.
+A full-stack URL shortener: Express/PostgreSQL API with JWT auth, optional accounts, and a Next.js + Tailwind frontend with a dashboard for tracking your links.
 
 `Node.js` `Express` `PostgreSQL` `Next.js` `JWT`
 
@@ -49,7 +50,7 @@ A full-stack URL shortener — Express/PostgreSQL API with JWT auth, optional ac
 </td>
 <td width="50%" valign="top">
 
-**💊 [Jutrabod (MediTrack)](https://github.com/oddemmy)**
+**💊 [Jutrabod (MediTrack)](https://github.com/oddemmy/JutrabodMediTrack)**
 
 A deployed full-stack MERN app for medication tracking, with Google OAuth (Passport.js) and Firebase Admin integration.
 
@@ -62,7 +63,7 @@ A deployed full-stack MERN app for medication tracking, with Google OAuth (Passp
 
 **🎓 [NACOS Bowen](https://github.com/nacosbowen)**
 
-Student association platform — Next.js/TypeScript frontend, Express/Prisma backend, real-time notifications via Socket.io. Built as Software Director for NACOS Bowen.
+Student association platform: Next.js/TypeScript frontend, Express/Prisma backend, and real-time notifications via Socket.io. Built as Software Director for NACOS Bowen.
 
 `Next.js` `TypeScript` `Prisma` `Socket.io`
 
@@ -71,25 +72,23 @@ Student association platform — Next.js/TypeScript frontend, Express/Prisma bac
 </td>
 <td width="50%" valign="top">
 
-**🛍️ [ShopBase](https://github.com/oddemmy)**
+**🗳️ [Decentralized Voting System](https://github.com/oddemmy/Decentralizedvotingsystem)**
 
-A production-style ecommerce storefront — auth, Firestore-backed catalog, orders, admin panel, and Paystack payments, built with vanilla JS.
+A decentralized voting system built with Solidity smart contracts, putting my Web3 learning into practice.
 
-`JavaScript` `Firebase` `Paystack`
-
-[Live demo](https://shopbase-d10ce.web.app)
+`Solidity` `Smart Contracts` `Web3`
 
 </td>
 </tr>
 </table>
 
-**Also building:** a Medicine Reminder & Health Tracking app (MERN practice project with family profiles and health metrics).
+**Also built:** [ShopBase](https://shopbase-d10ce.web.app), a vanilla JS ecommerce storefront with Firebase and Paystack, plus a Medicine Reminder & Health Tracking practice app.
 
 ---
 
-### Currently learning
+### Web3 journey
 
-🦀 Rust fundamentals (ownership, generics, traits, async/Tokio) → ⚓ Solana/Anchor development, through the Cyfrin Updraft Solana Developer course.
+🦀 Finished the Cyfrin Updraft courses: Rust fundamentals (ownership, generics, traits, async/Tokio) and Solana/Anchor development. Now applying it by building and shipping smart contract projects.
 
 ---
 
