@@ -2,7 +2,7 @@
 
 # Hi, I'm Emmanuel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A3EB1&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Bowen+University;MERN+Stack+Developer;Rust+%26+Solana%2FWeb3+Developer;Building+Fery%2C+Jutrabod%2C+NACOS+%26+Decentralized+Voting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A3EB1&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Bowen+University;MERN+Stack+Developer;Rust+%26+Solana%2FWeb3+Developer;Building+Fery%2C+Jutrabod%2C+%26+Decentralized+Voting" alt="Typing SVG" />
 
 </div>
 
